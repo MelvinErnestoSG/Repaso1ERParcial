@@ -1,5 +1,4 @@
-# Repaso 1ER Parcial.
-Repaso De Mi Primer Parcial.
+# Review of the First Partial of Applied I
 
 Un Boton Nuevo.
 
